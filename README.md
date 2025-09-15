@@ -64,5 +64,5 @@ Cross-validation techniques were also applied for better generalization.
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/insurance-ml.git
+   git clone https://github.com/AhmedLamti/insurance-ml-prediction.git
    cd insurance-ml
